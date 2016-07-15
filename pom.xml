@@ -17,6 +17,7 @@
     </contributors>
 
     <modules>
+        <module>jax-rs-standard</module>
         <module>spring-boot-html-mail</module>
     </modules>
 
