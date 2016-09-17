@@ -1,4 +1,4 @@
-package com.dolszewski.blog.part1;
+package com.dolszewski.blog.basic;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;
@@ -12,7 +12,7 @@ import java.lang.annotation.Target;
 @Constraint(validatedBy = UniqueLoginValidator.class)
 public @interface UniqueLogin {
 
-    String message() default "{com.dolszewski.blog.part1.UniqueLogin.message}";
+    String message() default "{com.dolszewski.blog.basic.UniqueLogin.message}";
     Class<?>[] groups() default {};
     Class<? extends Payload>[] payload() default {};
 

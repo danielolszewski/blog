@@ -1,4 +1,4 @@
-package com.dolszewski.blog.part1;
+package com.dolszewski.blog.basic;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
