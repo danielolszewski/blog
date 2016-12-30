@@ -20,6 +20,7 @@
         <module>jax-rs-standard</module>
         <module>spring-boot-html-mail</module>
         <module>spring-custom-validation</module>
+        <module>spring-boot-ttl-cache</module>
     </modules>
 
     <build>
