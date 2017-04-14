@@ -21,6 +21,7 @@
         <module>spring-boot-html-mail</module>
         <module>spring-custom-validation</module>
         <module>spring-boot-ttl-cache</module>
+        <module>spring-fast-startup</module>
     </modules>
 
     <build>
