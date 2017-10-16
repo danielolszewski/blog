@@ -22,6 +22,7 @@
         <module>spring-custom-validation</module>
         <module>spring-boot-ttl-cache</module>
         <module>spring-fast-startup</module>
+        <module>spring-cloud</module>
     </modules>
 
     <build>
