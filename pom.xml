@@ -23,6 +23,7 @@
         <module>spring-boot-ttl-cache</module>
         <module>spring-fast-startup</module>
         <module>spring-cloud</module>
+        <module>spring-boot-feature-toggle</module>
     </modules>
 
     <build>
