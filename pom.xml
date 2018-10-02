@@ -24,6 +24,7 @@
         <module>spring-fast-startup</module>
         <module>spring-cloud</module>
         <module>spring-boot-feature-toggle</module>
+        <module>spring-requestparam-object</module>
     </modules>
 
     <build>
