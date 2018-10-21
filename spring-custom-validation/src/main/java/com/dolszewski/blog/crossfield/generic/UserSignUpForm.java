@@ -9,6 +9,9 @@ public class UserSignUpForm {
     private String password;
     private String confirmedPassword;
 
+    public UserSignUpForm() {
+    }
+
     public UserSignUpForm(String login, String password, String confirmedPassword) {
         Objects.requireNonNull(login);
         Objects.requireNonNull(password);

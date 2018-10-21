@@ -12,7 +12,7 @@
     <artifactId>spring-boot-ttl-cache</artifactId>
 
     <properties>
-        <spring-boot.version>1.4.2.RELEASE</spring-boot.version>
+        <spring-boot.version>2.0.6.RELEASE</spring-boot.version>
     </properties>
 
     <dependencies>
