@@ -25,6 +25,7 @@
         <module>spring-cloud</module>
         <module>spring-boot-feature-toggle</module>
         <module>spring-requestparam-object</module>
+        <module>spring-boot-init-demo</module>
     </modules>
 
     <build>
